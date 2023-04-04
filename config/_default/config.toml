@@ -13,7 +13,7 @@ theme = "DoIt"
 
 [params]
   # DoIt 主题版本
-  version = "0.2.X"
+  version = "0.3.X"
 
 [menu]
   [[menu.main]]
