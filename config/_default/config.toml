@@ -404,7 +404,7 @@
       [params.page.comment.waline]
         # 
         enable = true
-        serverURL = "ajiangstudy-comment.vercel.app
+        serverURL = "ajiangstudy-comment.vercel.app"
         pageview = true
         comment = true
         # emoji = ['https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo']
