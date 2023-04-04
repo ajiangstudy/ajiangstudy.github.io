@@ -346,10 +346,10 @@ emoji = ""
 comment = true
 enable = false
 pageview = true
-serverURL = "https://do-it-waline-comment.vercel.app"
+serverURL = "https://ajiangstudy-comment.vercel.app/"
 # emoji = ['https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo']
-# meta = ['nick', 'mail', 'link']
-# requiredMeta = []
+meta = ['nick', 'mail', 'link']
+requiredMeta = [mail]
 # login = 'enable'
 # wordLimit = 0
 # pageSize = 10
@@ -393,7 +393,7 @@ repo = ""
 # Twikoo comment config (https://twikoo.js.org/)
 # Twikoo comment 评论系统设置 (https://twikoo.js.org/)
 [page.comment.twikoo]
-commentCount = true
+commentCount = false
 enable = true
 envId = "https://doit-docs-comment-twikoo.vercel.app/"
 path = ""
