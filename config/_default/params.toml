@@ -344,7 +344,7 @@ emoji = ""
 # Waline 评论系统设置 (https://waline.js.org)
 [page.comment.waline]
 comment = true
-enable = false
+enable = true
 pageview = true
 serverURL = "https://ajiangstudy-comment.vercel.app/"
 # emoji = ['https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo']
@@ -394,7 +394,7 @@ repo = ""
 # Twikoo comment 评论系统设置 (https://twikoo.js.org/)
 [page.comment.twikoo]
 commentCount = false
-enable = true
+enable = false
 envId = "https://doit-docs-comment-twikoo.vercel.app/"
 path = ""
 region = ""
