@@ -123,9 +123,9 @@
         # Gravatar 邮箱，用于优先在主页显示的头像
         gravatarEmail = ""
         # 主页显示头像的 URL
-        avatarURL = "/avatar.webp"
+        avatarURL = "/avatar.png"
         # 主页显示的网站标题 (支持 HTML 格式)
-        title = ""
+        title = "阿江小屋"
         # 主页显示的网站副标题
         subtitle = "阿江电子小屋"
         # 是否为副标题显示打字机动画
