@@ -216,7 +216,7 @@
     [zh-cn.params.sponsor]
       enable = true
       bio = "如果你觉得这篇文章对你有所帮助，欢迎赞赏~"
-      link = "https://github.com/sponsors/HEIGE-PCloud"
-      # custom = "<a href=\"https://www.buymeacoffee.com/PCloud\" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" alt=\"Buy Me A Coffee\" style=\"height: 40px !important;width: 145 !important;\" ></a>"
+      link = "https://article.biliimg.com/bfs/article/1a8e85fa9edec8a0f965cdd8a60a7db97f6f6029.jpg"
+      # custom = "<a href=\"https://article.biliimg.com/bfs/article/1a8e85fa9edec8a0f965cdd8a60a7db97f6f6029.jpg" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" alt=\"Buy Me A Coffee\" style=\"height: 40px !important;width: 145 !important;\" ></a>"
 
 

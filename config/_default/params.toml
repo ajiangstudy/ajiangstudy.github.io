@@ -47,7 +47,7 @@ themeChangeMode = "select"
 logo = ""
 # title name
 # 标题名称
-name = "DoIt"
+name = "阿江小屋"
 # you can add extra information before the name (HTML format is supported), such as icons
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
 pre = "<i class='far fa-edit fa-fw'></i>"
@@ -80,7 +80,7 @@ copyright = true
 author = true
 # site creation time
 # 网站创立年份
-since = 2019
+since = 2023
 # ICP info only in China (HTML format is supported)
 # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
 icp = ""
@@ -477,9 +477,9 @@ enable = true
 # 赞助设置
 [sponsor]
 bio = "If you find this post helpful, please consider sponsoring."
-enable = false
-link = "https://github.com/sponsors/HEIGE-PCloud"
-# custom = "<a href=\"https://www.buymeacoffee.com/PCloud\" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" alt=\"Buy Me A Coffee\" style=\"height: 40px !important;width: 145 !important;\" ></a>"
+enable = true
+link = "https://article.biliimg.com/bfs/article/1a8e85fa9edec8a0f965cdd8a60a7db97f6f6029.jpg"
+# custom = "<a href=\"https://article.biliimg.com/bfs/article/1a8e85fa9edec8a0f965cdd8a60a7db97f6f6029.jpg" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" alt=\"Buy Me A Coffee\" style=\"height: 40px !important;width: 145 !important;\" ></a>"
 
 # TypeIt config
 # TypeIt 配置
